@@ -95,6 +95,17 @@ header{
    font-size:30px; 
 }     
 
+footer{
+    color:#fff;
+    font-size:50px;
+}
+
+footer p{
+     color:black;
+     font-size:20px;
+     text-align:center;
+}  
+
 @media(max-width:650px){
     .logo{
         float:none;
